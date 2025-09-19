@@ -1,0 +1,13 @@
+.venv/*
+
+# Ignore environment variable files
+.env
+.env.*
+__pycache__/
+*.pyc
+
+# Ignore Streamlit secrets file
+.streamlit/secrets.toml
+
+# Ignore system files
+.DS_Store

@@ -6,6 +6,12 @@ FakeOut is an AI-powered tool that helps job seekers **detect fake job listings*
 
 ---
 
+## 📽️ Watch demo video
+
+[FakeOutAi-video](https://youtu.be/FgEWadDv15U)
+
+---
+
 ## 🚀 Try It Out
 
 Paste or upload a job description and click "Analyze". You'll get:
@@ -84,7 +90,7 @@ Connect: [Linkedin](https://linkedin.com/in/sanju-shaw-225ab4214/)
 
 ## 📜 License
 
-MIT © 2025
+[MIT](./LICENSE)
 
 ---
 
